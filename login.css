@@ -1,0 +1,9 @@
+.paragraph{
+    align-items: left;
+}
+button{
+    background-color: black;
+    border-color: purple;
+    color: green;
+    padding: 2px 3px;
+}
