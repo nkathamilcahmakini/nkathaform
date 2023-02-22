@@ -1,0 +1,25 @@
+.paragraph{
+    align-items: left;
+}
+#image{
+float: left;
+
+}
+input{
+    padding: 10px;
+    margin: 15px;
+   
+ text-align: center;
+}
+form{  
+    margin: right 80px;
+}
+button{
+    background-color: black;
+    border-color: blue;
+    color: bisque;
+    padding: 2px 3px;
+}
+h1{
+    color: blueviolet;
+}
